@@ -1,4 +1,4 @@
-# Machine-Learning-Practice
+# Machine Learning Practice
 
 This repository contains all my machine learning work from CSCI 4622. Solutions provided by me.
 
